@@ -1,0 +1,23 @@
+[
+{
+  "modid": "skyblocktalismanstracker",
+  "name": "SkyBlock Talismans Tracker",
+  "description": "Tracks your Hypixel SkyBlock talismans progress.
+  
+For reforge tips, join the Skyblock Simplified Discord:
+  https://discord.gg/2TqYw9m
+
+NOTE: Information is accurate within 5 minutes.
+DISCLAIMER: I am in no way affiliated with The Hypixel Network or with The Skyblock Simplified Discord.
+  ",
+  "version": "0.2.2",
+  "mcversion": "1.8.9",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/hypixel-skyblock-talismans-tracker",
+  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/hypixel-skyblock-talismans-tracker/download",
+  "authorList": ["KadenSharpin"],
+  "credits": "Thanks Hypixel for making a fun game and the Forge team for their hard work.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
